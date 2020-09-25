@@ -1,0 +1,51 @@
+table, th ,td{
+    border: 2px solid green;
+    border-collapse: collapse;
+    
+    
+}
+table{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+     text-align: center; 
+    height: 30px;
+}
+
+th{
+    height: 50px;
+    background-color: green;
+}
+
+.left{
+    text-align: left;
+    padding-left: 10px;
+    
+}
+tr:hover{
+    background-color: gray;
+    color: white;
+}
+
+aside.right{
+   float: right;
+   padding-right: 150px;
+}
+aside.left{
+    float: left;
+    padding-left: 100px;
+}
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+
+
+div.center{
+   text-align: center;
+}
